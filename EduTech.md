@@ -1,0 +1,1 @@
+[산업 동향 및 전망](https://repository.kisti.re.kr/bitstream/10580/18021/1/ASTI%20MARKET%20INSIGHT%20087%280712%29.pdf)
