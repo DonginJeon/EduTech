@@ -1,3 +1,8 @@
+- 정의
+  - 교육과 기술이 결합된 신조어. 교육에 ICT기술을 융합한 새로운 교육 흐름.
+  AI, 빅데이터, 증강현실, 가상현실, 사물인터넷, 클라우드, MOOC
+
+
 - [산업 동향 및 전망](https://repository.kisti.re.kr/bitstream/10580/18021/1/ASTI%20MARKET%20INSIGHT%20087%280712%29.pdf)
 
 - 아이디어
